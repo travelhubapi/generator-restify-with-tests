@@ -1,6 +1,6 @@
 {
   "name": "generator-restify-with-tests",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Restify api with unit and integrated tests",
   "homepage": "https://github.com/travelhubapi/generator-restify-with-tests",
   "author": {
